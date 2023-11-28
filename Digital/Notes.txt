@@ -1,0 +1,6 @@
+https://wildcatdigimarketing.000webhostapp.com/dbadmin/login.php
+
+
+dbname: id21243488_sample
+user: id21243488_sample
+pass : @Digital123
